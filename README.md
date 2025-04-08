@@ -1,4 +1,4 @@
-## Welcome! :)
+## About Me:
 
 - Software Engineering Student | UCSAL
 - She/Her

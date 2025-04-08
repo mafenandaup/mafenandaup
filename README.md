@@ -27,6 +27,9 @@ https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&log
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <div>
 
+<br><br>
+![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
+
 ### Social media
 
 <p align="left">

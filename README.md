@@ -28,5 +28,5 @@ https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&log
 ### Social media
 
 [ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/mariafpm/)
-[![Gmail Badge](https://img.shields.io/badge/-mariafernandapmaia@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafernandapmaia@gmail.com)](mailto:mariafernandapmaia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafernandapmaia@gmail.com)](mailto:mariafernandapmaia@gmail.com)
 

@@ -1,14 +1,12 @@
-## About Me:
 
-- Software Engineering Student | UCSAL
-- She/Her
-- Web Development | UX/UI Design 
+- Engenharia de Software| UCSAL
+- Desenvolvimento Web | UX/UI Design 
 
 #### Tech enthusiast, constantly striving for professional improvement, with the primary goal of standing out among other software developers.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafenandaup&show_icons=true&theme=synthwave)
 
-## My main skills:
+## Minhas Skills:
 
 <div style= "display: inline_block"></br> 
 <img alt= "html" src=

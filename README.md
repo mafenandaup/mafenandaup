@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,npm,prisma,html,css,nodejs,java,postgres,mongodb,photoshop,ai,eclipse,express,gcp,git,github)](https://skillicons.dev)
 
-### Saiba onde me encontrar! 
+## Saiba onde me encontrar! 
 
 <p align="left">
   <a href="mailto:mariafernandapmaia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;

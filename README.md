@@ -5,7 +5,7 @@
 
 ## Minhas Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,npm,prisma,html,css,nodejs,java,postman,postgres,mongodb,photoshop,ai,eclipse,express,gcp,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,npm,prisma,html,css,nodejs,java,springboot,postman,postgres,mongodb,photoshop,ai,eclipse,express,gcp,git,idea,github)](https://skillicons.dev)
 
 ## Saiba onde me encontrar! 
 
